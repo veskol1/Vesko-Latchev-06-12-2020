@@ -1,0 +1,14 @@
+{
+  "name": "heroloautomation",
+  "version": "1.0.0",
+  "description": "automation testcafe project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.9.4"
+  }
+}
